@@ -1,0 +1,11 @@
+redis
+beautifulsoup4
+numpy
+pandas
+requests
+flask
+matplotlib
+scikit-learn
+sqlalchemy
+pyyaml
+jupyter
